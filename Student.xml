@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student>
+	<address />
+	<studentId>101</studentId>
+	<studentMarks>999</studentMarks>
+	<studentName>Ashok</studentName>
+	<studentRank>5</studentRank>
+</student>
